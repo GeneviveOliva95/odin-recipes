@@ -1,0 +1,23 @@
+h1 {
+    color: navajowhite;
+    background-color: black;
+    font-family: "Times New Roman";
+    font-style: oblique;
+    text-align: center;
+}
+
+body {
+    background-color: papayawhip;
+}
+
+.bolognese,
+.tetrazzini,
+.shrimp {
+    text-align: center;
+}
+
+.remy {
+    float: right;
+    margin-inline: 100px;
+    margin-top: -450px;
+}
